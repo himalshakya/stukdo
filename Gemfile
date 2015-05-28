@@ -49,5 +49,7 @@ group :development, :test do
   gem 'simple_form'
 
   gem 'devise'
+
+  gem 'auto_html'
 end
 
